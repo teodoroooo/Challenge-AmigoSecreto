@@ -122,7 +122,8 @@ button {
 }
 
 .button-add:hover {
-    background-color: #a1a1a1;
+    background-color: var(--color-primary);
+    color: white;
 }
 
 /* Listas */
@@ -151,6 +152,7 @@ ul {
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    margin-bottom: 30px;
 }
 
 .button-draw img {
