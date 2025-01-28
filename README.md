@@ -29,6 +29,9 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - **Sorteio Aleatório**: a aplicação realiza um sorteio entre os participantes de forma justa e aleatória, atribuindo um amigo secreto a cada participante.
 - **Revelação do Amigo Secreto**: o participante pode ver o nome do seu amigo secreto de forma privada e anônima.
 
+## Deploy do projeto
+
+- O projeto está hospedado no link => https://challenge-amigo-secreto-taupe.vercel.app/
 
 ## Como Usar
 
